@@ -104,4 +104,3 @@ sudo apt install openjdk-11-jdk  # For Linux
 3. Kormpho et al., *Smart Complaint Management System*, ICT-ISPC, 2018.  
 4. Dini et al., *Implementing Blockchain for Criminal Records*, 2018.  
 
-Would you like any modifications? 😊
